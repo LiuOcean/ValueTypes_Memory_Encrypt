@@ -1,0 +1,8 @@
+{
+  "name": "com.liuocean.encrypt",
+  "displayName": "Encrypt",
+  "description": "值类型内存加密工具",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
