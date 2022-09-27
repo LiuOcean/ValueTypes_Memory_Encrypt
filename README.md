@@ -1,5 +1,7 @@
 # 值类型内存加密
 
+[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 此库对常见的值类型做了比较完善的内存加密，可以抵御常见的内存搜索工具，本方案在 [CSEncryptType](https://github.com/nichos1983/CSEncryptType) 的设计基础上，针对 `堆内存` 消耗过大的问题进行了优化
 
 具体使用如下：
